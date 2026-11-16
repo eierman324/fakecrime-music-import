@@ -94,19 +94,6 @@ If no matching video is found, the 30-second preview is used and the popup tells
 Only add music and images you have the right to use. This project is not affiliated with
 fakecrime, SoundCloud, YouTube, Google or Apple.
 
-## Releasing a new version
-
-Users only get updates from releases, so work on `main` doesn't reach them until it is released.
-
-1. Raise `@version` in `fakecrime-music-import.user.js` (e.g. `1.0.0` → `1.0.1`) and push to `main`.
-2. Create a release with a matching tag and attach the script:
-
-   ```bash
-   gh release create v1.0.1 fakecrime-music-import.user.js --title "v1.0.1" --notes "What changed"
-   ```
-
-The file must be attached as `fakecrime-music-import.user.js`, otherwise the update link doesn't find it.
-
 ## License
 
 [MIT](LICENSE)
