@@ -13,12 +13,12 @@ Nothing is submitted automatically: you review the form and press **Create** you
 ## Install
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser.
-2. **[Click here to install the script](https://github.com/e1erman/fakecrime-music-import/releases/latest/download/fakecrime-music-import.user.js)**
+2. **[Click here to install the script](https://github.com/eierman324/fakecrime-music-import/releases/latest/download/fakecrime-music-import.user.js)**
    and confirm with *Install* in the Tampermonkey dialog.
 3. Open (or reload) <https://fakecrime.bio/bio/music>.
 
 Tampermonkey checks for new versions automatically and updates the script whenever a new
-[release](https://github.com/e1erman/fakecrime-music-import/releases) is published.
+[release](https://github.com/eierman324/fakecrime-music-import/releases) is published.
 To check right away: click the Tampermonkey icon → *Check for userscript updates*.
 
 The first time the script loads something, Tampermonkey asks whether it may connect to that site

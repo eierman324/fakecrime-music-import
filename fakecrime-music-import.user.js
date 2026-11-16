@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         fakecrime – Music Import
 // @namespace    fakecrime-music-import
-// @version      1.0.0
+// @version      1.0.1
 // @author       eierman
 // @license      MIT
-// @homepageURL  https://github.com/e1erman/fakecrime-music-import
-// @supportURL   https://github.com/e1erman/fakecrime-music-import/issues
-// @downloadURL  https://github.com/e1erman/fakecrime-music-import/releases/latest/download/fakecrime-music-import.user.js
-// @updateURL    https://github.com/e1erman/fakecrime-music-import/releases/latest/download/fakecrime-music-import.user.js
+// @homepageURL  https://github.com/eierman324/fakecrime-music-import
+// @supportURL   https://github.com/eierman324/fakecrime-music-import/issues
+// @downloadURL  https://github.com/eierman324/fakecrime-music-import/releases/latest/download/fakecrime-music-import.user.js
+// @updateURL    https://github.com/eierman324/fakecrime-music-import/releases/latest/download/fakecrime-music-import.user.js
 // @description  Unofficial helper for fakecrime.bio: add songs to your bio music player from a SoundCloud/YouTube link or search. Fills audio, cover, name ("Title - Artist") and URL, and adds image/audio search to the upload fields.
 // @match        https://fakecrime.bio/*
 // @noframes
